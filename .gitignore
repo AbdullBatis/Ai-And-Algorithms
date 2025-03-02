@@ -1,0 +1,24 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Sensitive data
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
